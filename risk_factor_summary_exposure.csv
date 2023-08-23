@@ -1,0 +1,307 @@
+population_characteristics,sex,risk_factor,prevalence_of_risk
+18–24,Male,Inadequate fruit,60.3
+25–34,Male,Inadequate fruit,61.3
+35–44,Male,Inadequate fruit,57.3
+45–54,Male,Inadequate fruit,59.3
+55–64,Male,Inadequate fruit,53.3
+65–74,Male,Inadequate fruit,47.9
+75–84,Male,Inadequate fruit,42.5
+85+,Male,Inadequate fruit,37.8
+All,Male,Inadequate fruit,56
+18–24,Female,Inadequate fruit,53.1
+25–34,Female,Inadequate fruit,48.3
+35–44,Female,Inadequate fruit,50.6
+45–54,Female,Inadequate fruit,44.4
+55–64,Female,Inadequate fruit,40.2
+65–74,Female,Inadequate fruit,31.4
+75–84,Female,Inadequate fruit,38.6
+85+,Female,Inadequate fruit,33.3
+All,Female,Inadequate fruit,44.6
+18–24,Persons,Inadequate fruit,56.6
+25–34,Persons,Inadequate fruit,54.6
+35–44,Persons,Inadequate fruit,53.7
+45–54,Persons,Inadequate fruit,51.5
+55–64,Persons,Inadequate fruit,46.5
+65–74,Persons,Inadequate fruit,39.6
+75–84,Persons,Inadequate fruit,41.2
+85+,Persons,Inadequate fruit,35.3
+All,Persons,Inadequate fruit,50.2
+18–24,Male,Inadequate vegetables,98
+25–34,Male,Inadequate vegetables,97.2
+35–44,Male,Inadequate vegetables,97.7
+45–54,Male,Inadequate vegetables,98
+55–64,Male,Inadequate vegetables,96.1
+65–74,Male,Inadequate vegetables,93.5
+75–84,Male,Inadequate vegetables,86.2
+85+,Male,Inadequate vegetables,92.9
+All,Male,Inadequate vegetables,96.2
+18–24,Female,Inadequate vegetables,93.1
+25–34,Female,Inadequate vegetables,89.4
+35–44,Female,Inadequate vegetables,90.7
+45–54,Female,Inadequate vegetables,89.2
+55–64,Female,Inadequate vegetables,89.1
+65–74,Female,Inadequate vegetables,85.7
+75–84,Female,Inadequate vegetables,91.1
+85+,Female,Inadequate vegetables,91.3
+All,Female,Inadequate vegetables,89.8
+18–24,Persons,Inadequate vegetables,95.9
+25–34,Persons,Inadequate vegetables,93.1
+35–44,Persons,Inadequate vegetables,94
+45–54,Persons,Inadequate vegetables,93.3
+55–64,Persons,Inadequate vegetables,92.5
+65–74,Persons,Inadequate vegetables,89
+75–84,Persons,Inadequate vegetables,89.1
+85+,Persons,Inadequate vegetables,93.4
+All,Persons,Inadequate vegetables,92.9
+18–24,Male,Alcohol use,18.9
+25–34,Male,Alcohol use,24.9
+35–44,Male,Alcohol use,28
+45–54,Male,Alcohol use,28
+55–64,Male,Alcohol use,31.3
+65–74,Male,Alcohol use,26.8
+75–84,Male,Alcohol use,15.3
+85+,Male,Alcohol use,15.3
+All,Male,Alcohol use,25.8
+18–24,Female,Alcohol use,7.5
+25–34,Female,Alcohol use,7
+35–44,Female,Alcohol use,9.7
+45–54,Female,Alcohol use,10.9
+55–64,Female,Alcohol use,10.2
+65–74,Female,Alcohol use,11.2
+75–84,Female,Alcohol use,7.9
+85+,Female,Alcohol use,7.9
+All,Female,Alcohol use,9.3
+18–24,Persons,Alcohol use,13.8
+25–34,Persons,Alcohol use,15.8
+35–44,Persons,Alcohol use,18.6
+45–54,Persons,Alcohol use,19.4
+55–64,Persons,Alcohol use,20.6
+65–74,Persons,Alcohol use,18.9
+75–84,Persons,Alcohol use,11.1
+85+,Persons,Alcohol use,11.1
+All,Persons,Alcohol use,17.4
+18–24,Male,Tobacco use,12.8
+25–34,Male,Tobacco use,22.5
+35–44,Male,Tobacco use,20.1
+45–54,Male,Tobacco use,19.3
+55–64,Male,Tobacco use,17.1
+65–74,Male,Tobacco use,10.5
+75–84,Male,Tobacco use,3.6
+85+,Male,Tobacco use,3.6
+All,Male,Tobacco use,16.9
+18–24,Female,Tobacco use,15.1
+25–34,Female,Tobacco use,12.1
+35–44,Female,Tobacco use,13.4
+45–54,Female,Tobacco use,15.5
+55–64,Female,Tobacco use,12.4
+65–74,Female,Tobacco use,7
+75–84,Female,Tobacco use,4.5
+85+,Female,Tobacco use,4.5
+All,Female,Tobacco use,12.1
+18–24,Persons,Tobacco use,14.2
+25–34,Persons,Tobacco use,17.3
+35–44,Persons,Tobacco use,16.6
+45–54,Persons,Tobacco use,17.7
+55–64,Persons,Tobacco use,14.6
+65–74,Persons,Tobacco use,8.8
+75–84,Persons,Tobacco use,3.6
+85+,Persons,Tobacco use,3.6
+All,Persons,Tobacco use,14.5
+18–24,Male,Physical inactivity,45.4
+25–34,Male,Physical inactivity,43.9
+35–44,Male,Physical inactivity,53.3
+45–54,Male,Physical inactivity,56.8
+55–64,Male,Physical inactivity,54
+65–74,Male,Physical inactivity,73.5
+75–84,Male,Physical inactivity,73.5
+85+,Male,Physical inactivity,73.5
+All,Male,Physical inactivity,50.6
+18–24,Female,Physical inactivity,50.7
+25–34,Female,Physical inactivity,49
+35–44,Female,Physical inactivity,53.6
+45–54,Female,Physical inactivity,56.2
+55–64,Female,Physical inactivity,59.7
+65–74,Female,Physical inactivity,76.9
+75–84,Female,Physical inactivity,76.9
+85+,Female,Physical inactivity,76.9
+All,Female,Physical inactivity,53.7
+18–24,Persons,Physical inactivity,48
+25–34,Persons,Physical inactivity,46.5
+35–44,Persons,Physical inactivity,53.4
+45–54,Persons,Physical inactivity,56.6
+55–64,Persons,Physical inactivity,56.5
+65–74,Persons,Physical inactivity,75
+75–84,Persons,Physical inactivity,75
+85+,Persons,Physical inactivity,75
+All,Persons,Physical inactivity,52.2
+18–24,Male,High cholesterol,30.9
+25–34,Male,High cholesterol,51.7
+35–44,Male,High cholesterol,69.1
+45–54,Male,High cholesterol,73.8
+55–64,Male,High cholesterol,74.8
+65–74,Male,High cholesterol,78.3
+75–84,Male,High cholesterol,73.9
+85+,Male,High cholesterol,73.9
+All,Male,High cholesterol,63.7
+18–24,Female,High cholesterol,36.3
+25–34,Female,High cholesterol,51.2
+35–44,Female,High cholesterol,50
+45–54,Female,High cholesterol,68.2
+55–64,Female,High cholesterol,83
+65–74,Female,High cholesterol,83.5
+75–84,Female,High cholesterol,80.8
+85+,Female,High cholesterol,80.8
+All,Female,High cholesterol,62.8
+18–24,Persons,High cholesterol,33.6
+25–34,Persons,High cholesterol,51.5
+35–44,Persons,High cholesterol,59.2
+45–54,Persons,High cholesterol,70.9
+55–64,Persons,High cholesterol,78.9
+65–74,Persons,High cholesterol,81
+75–84,Persons,High cholesterol,77.7
+85+,Persons,High cholesterol,77.7
+All,Persons,High cholesterol,63.2
+18–24,Male,High blood pressure,6
+25–34,Male,High blood pressure,11.1
+35–44,Male,High blood pressure,18.7
+45–54,Male,High blood pressure,26.9
+55–64,Male,High blood pressure,40
+65–74,Male,High blood pressure,42.7
+75–84,Male,High blood pressure,42.1
+85+,Male,High blood pressure,42.1
+All,Male,High blood pressure,24.4
+18–24,Female,High blood pressure,6.7
+25–34,Female,High blood pressure,8.2
+35–44,Female,High blood pressure,13.9
+45–54,Female,High blood pressure,21.5
+55–64,Female,High blood pressure,30.9
+65–74,Female,High blood pressure,41.3
+75–84,Female,High blood pressure,51.3
+85+,Female,High blood pressure,51.3
+All,Female,High blood pressure,21.7
+18–24,Persons,High blood pressure,5.9
+25–34,Persons,High blood pressure,9.6
+35–44,Persons,High blood pressure,16.1
+45–54,Persons,High blood pressure,24.4
+55–64,Persons,High blood pressure,35.1
+65–74,Persons,High blood pressure,41.5
+75–84,Persons,High blood pressure,46.9
+85+,Persons,High blood pressure,46.9
+All,Persons,High blood pressure,23
+18–24,Male,Overweight (including obesity),43.8
+25–34,Male,Overweight (including obesity),62.5
+35–44,Male,Overweight (including obesity),74.3
+45–54,Male,Overweight (including obesity),79.8
+55–64,Male,Overweight (including obesity),81.8
+65–74,Male,Overweight (including obesity),79.9
+75–84,Male,Overweight (including obesity),73.2
+85+,Male,Overweight (including obesity),73.2
+All,Male,Overweight (including obesity),70.8
+18–24,Female,Overweight (including obesity),33.3
+25–34,Female,Overweight (including obesity),42.5
+35–44,Female,Overweight (including obesity),58.1
+45–54,Female,Overweight (including obesity),61.9
+55–64,Female,Overweight (including obesity),68.2
+65–74,Female,Overweight (including obesity),68.8
+75–84,Female,Overweight (including obesity),65.6
+85+,Female,Overweight (including obesity),65.6
+All,Female,Overweight (including obesity),56.3
+18–24,Persons,Overweight (including obesity),38.9
+25–34,Persons,Overweight (including obesity),52.4
+35–44,Persons,Overweight (including obesity),65.9
+45–54,Persons,Overweight (including obesity),70.6
+55–64,Persons,Overweight (including obesity),74.7
+65–74,Persons,Overweight (including obesity),74.3
+75–84,Persons,Overweight (including obesity),69.3
+85+,Persons,Overweight (including obesity),69.3
+All,Persons,Overweight (including obesity),63.4
+Q1 (most disadvantaged),Male,Alcohol use,23.3
+Q2,Male,Alcohol use,26.1
+Q3,Male,Alcohol use,26.2
+Q4,Male,Alcohol use,25
+Q5 (least disadvantaged),Male,Alcohol use,28.6
+Q1 (most disadvantaged),Female,Alcohol use,7.7
+Q2,Female,Alcohol use,8.5
+Q3,Female,Alcohol use,8.4
+Q4,Female,Alcohol use,9.7
+Q5 (least disadvantaged),Female,Alcohol use,12
+Q1 (most disadvantaged),Persons,Alcohol use,15.1
+Q2,Persons,Alcohol use,17
+Q3,Persons,Alcohol use,17.3
+Q4,Persons,Alcohol use,17.3
+Q5 (least disadvantaged),Persons,Alcohol use,19.9
+Q1 (most disadvantaged),Male,Tobacco use,24.6
+Q2,Male,Tobacco use,21.1
+Q3,Male,Tobacco use,17.3
+Q4,Male,Tobacco use,13.7
+Q5 (least disadvantaged),Male,Tobacco use,8.7
+Q1 (most disadvantaged),Female,Tobacco use,18.6
+Q2,Female,Tobacco use,14.3
+Q3,Female,Tobacco use,11.2
+Q4,Female,Tobacco use,10.5
+Q5 (least disadvantaged),Female,Tobacco use,6.6
+Q1 (most disadvantaged),Persons,Tobacco use,21.3
+Q2,Persons,Tobacco use,17.6
+Q3,Persons,Tobacco use,14.1
+Q4,Persons,Tobacco use,12.1
+Q5 (least disadvantaged),Persons,Tobacco use,7.8
+Q1 (most disadvantaged),Male,Physical inactivity,59.6
+Q2,Male,Physical inactivity,59
+Q3,Male,Physical inactivity,55.4
+Q4,Male,Physical inactivity,44.4
+Q5 (least disadvantaged),Male,Physical inactivity,37.7
+Q1 (most disadvantaged),Female,Physical inactivity,66.1
+Q2,Female,Physical inactivity,54.1
+Q3,Female,Physical inactivity,55.5
+Q4,Female,Physical inactivity,51
+Q5 (least disadvantaged),Female,Physical inactivity,42.6
+Q1 (most disadvantaged),Persons,Physical inactivity,62.6
+Q2,Persons,Physical inactivity,56.7
+Q3,Persons,Physical inactivity,55.5
+Q4,Persons,Physical inactivity,47.3
+Q5 (least disadvantaged),Persons,Physical inactivity,40
+Q1 (most disadvantaged),Male,High cholesterol,64.4
+Q2,Male,High cholesterol,70.7
+Q3,Male,High cholesterol,63.5
+Q4,Male,High cholesterol,57.5
+Q5 (least disadvantaged),Male,High cholesterol,62.9
+Q1 (most disadvantaged),Female,High cholesterol,69.7
+Q2,Female,High cholesterol,65.9
+Q3,Female,High cholesterol,61.4
+Q4,Female,High cholesterol,59.8
+Q5 (least disadvantaged),Female,High cholesterol,58.6
+Q1 (most disadvantaged),Persons,High cholesterol,67.1
+Q2,Persons,High cholesterol,68.2
+Q3,Persons,High cholesterol,62.4
+Q4,Persons,High cholesterol,58.6
+Q5 (least disadvantaged),Persons,High cholesterol,60.7
+Q1 (most disadvantaged),Male,High blood pressure,26.5
+Q2,Male,High blood pressure,25
+Q3,Male,High blood pressure,21.6
+Q4,Male,High blood pressure,25.4
+Q5 (least disadvantaged),Male,High blood pressure,22.9
+Q1 (most disadvantaged),Female,High blood pressure,24
+Q2,Female,High blood pressure,24.7
+Q3,Female,High blood pressure,20.1
+Q4,Female,High blood pressure,20.6
+Q5 (least disadvantaged),Female,High blood pressure,18.7
+Q1 (most disadvantaged),Persons,High blood pressure,25.5
+Q2,Persons,High blood pressure,24.7
+Q3,Persons,High blood pressure,21.1
+Q4,Persons,High blood pressure,22.9
+Q5 (least disadvantaged),Persons,High blood pressure,20.9
+Q1 (most disadvantaged),Male,Overweight (including obesity),72.1
+Q2,Male,Overweight (including obesity),73.1
+Q3,Male,Overweight (including obesity),70.8
+Q4,Male,Overweight (including obesity),69.7
+Q5 (least disadvantaged),Male,Overweight (including obesity),68.8
+Q1 (most disadvantaged),Female,Overweight (including obesity),61.4
+Q2,Female,Overweight (including obesity),57.8
+Q3,Female,Overweight (including obesity),58.6
+Q4,Female,Overweight (including obesity),55.3
+Q5 (least disadvantaged),Female,Overweight (including obesity),47.8
+Q1 (most disadvantaged),Persons,Overweight (including obesity),66.5
+Q2,Persons,Overweight (including obesity),65.2
+Q3,Persons,Overweight (including obesity),64.9
+Q4,Persons,Overweight (including obesity),62.5
+Q5 (least disadvantaged),Persons,Overweight (including obesity),57.8
