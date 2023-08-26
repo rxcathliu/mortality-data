@@ -305,3 +305,13 @@ Q2,Persons,Overweight (including obesity),65.2
 Q3,Persons,Overweight (including obesity),64.9
 Q4,Persons,Overweight (including obesity),62.5
 Q5 (least disadvantaged),Persons,Overweight (including obesity),57.8
+Q1 (most disadvantaged),Persons,Inadequate fruit,52.6
+Q2,Persons,Inadequate fruit,50.9
+Q3,Persons,Inadequate fruit,50.1
+Q4,Persons,Inadequate fruit,47.6
+Q5 (least disadvantaged),Persons,Inadequate fruit,45.9
+Q1 (most disadvantaged),Persons,Inadequate vegetables,94.3
+Q2,Persons,Inadequate vegetables,92.5
+Q3,Persons,Inadequate vegetables,93
+Q4,Persons,Inadequate vegetables,91.9
+Q5 (least disadvantaged),Persons,Inadequate vegetables,91.6
